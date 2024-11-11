@@ -90,15 +90,15 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ### Introduction to Data Science
 
-- [ ] [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+- [x] [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ### Introduction to Computer Science
 
 _Students who already know basic programming in any language can skip this first course_
 
-- [ ] [Introduction to programming](coursepages/intro-programming/README.md)
+- [x] [Introduction to programming](coursepages/intro-programming/README.md)
 
-- [ ] [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
+- [x] [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
 - [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
@@ -106,15 +106,15 @@ _Students who already know basic programming in any language can skip this first
 
 _The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
 
-- [ ] [Java Programming](https://java-programming.mooc.fi/)
+- [x] [Java Programming](https://java-programming.mooc.fi/)
 
-- [ ] [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
+- [x] [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
 
-- [ ] [Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
+- [x] [Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
 
-- [ ] [Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
+- [x] [Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms)
 
-- [ ] [Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
+- [x] [Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
 
 ### Databases
 
@@ -150,7 +150,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Statistics & Probability
 
-- [ ] [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
+- [x] [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
 - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
